@@ -5,7 +5,7 @@ v0.1, 2020-01-31
 
 == License
 
-This eBook is licensed using Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+This eBook is licensed using Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). You are encouraged to contribute improvements at https://github.com/jimmarq/opencae.
 
 ==  Executive Summary
 
