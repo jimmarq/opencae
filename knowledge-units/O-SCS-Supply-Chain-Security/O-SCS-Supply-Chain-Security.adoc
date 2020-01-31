@@ -1,0 +1,70 @@
+= Supply Chain Security: An OpenCAE Resource
+Dr. Ahmed Elnoshokaty <aelno@nmu.edu>;Dr. Jim Marquardson <jimarqua@nmu.edu>
+v0.1, 2020-01-31
+:toc:
+
+== License
+
+This eBook is licensed using Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+==  Executive Summary
+
+Describe the topic one or two paragraphs.
+
+== Learning Outcomes
+
+Students should be able to footnote:[https://www.iad.gov/nietp/CAERequirements.cfm]:
+
+1. Describe the issues related to outsourcing hardware and/or software development and/or integration.
+2. Describe methods to mitigate these issues, and the limitations of these methods.
+
+== Topics at a Glance
+
+[width="100%",cols="1,2"]
+|=====================================
+|1. Global Development                         | TODO
+|2. Off Shore Production                       | TODO
+|3. Transport and Logistics of IT Components   | TODO
+|4. Evaluation of 3rd Party Development Practices | TODO
+|5. Understanding of the Capabilities and Limits of Software and Hardware Reverse Engineering| TODO
+|=====================================
+
+== Global Development
+
+TODO
+
+== Off Shore Production
+
+TODO
+
+== Transport and Logistics of IT Components
+
+TODO
+
+== Evaluation of 3rd Party Development Practices
+
+TODO
+
+== Software Reverse Engineering
+
+TODO
+
+=== Capabilities
+
+TODO
+
+=== Limits
+
+TODO
+
+== Hardware Reverse Engineering
+
+TODO
+
+=== Capabilities
+
+TODO
+
+=== Limits
+
+TODO
