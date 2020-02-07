@@ -11,6 +11,16 @@ This eBook is licensed using Creative Commons Attribution-ShareAlike 4.0 Interna
 
 Describe the topic one or two paragraphs.
 
+== About the Authors
+
+Dr. Ahmed Elnoshokaty is an Assistant Professor of Business Analytics at Northern Michigan University.
+
+Dr. Jim Marquardson in an Assistant Professor of Information Assurance and Cyber Defense at Northern Michigan University.
+
+== Changelog
+
+* 2019-02-01: v1. First version released.
+
 == Learning Outcomes
 
 Students should be able to footnote:[https://www.iad.gov/nietp/CAERequirements.cfm]:
@@ -22,11 +32,11 @@ Students should be able to footnote:[https://www.iad.gov/nietp/CAERequirements.c
 
 [width="100%",cols="1,2"]
 |=====================================
-|1. Global Development                         | TODO
-|2. Off Shore Production                       | TODO
-|3. Transport and Logistics of IT Components   | TODO
-|4. Evaluation of 3rd Party Development Practices | TODO
-|5. Understanding of the Capabilities and Limits of Software and Hardware Reverse Engineering| TODO
+|1. Global Development                         | Organizations leverage information technology skills available in many countries across the globe to develop information systems. Global development can be achieved through outsourcing or offshoring.
+|2. Off Shore Production                       | Offshoring is the practice of having systems developed in countries outside of an organization's home country. The main driver for offshoring  is typically lower cost of production.
+|3. Transport and Logistics of IT Components   | Collaboration and workflow technology helps enable the transport and logistics of information technology components. Organizations must obey all laws, such as export control, when transporting information technology components.
+|4. Evaluation of 3rd Party Development Practices | When outsourcing work to 3rd parties, organizations are still resposible for ensuring that the final product meets all technical requirements.
+|5. Understanding of the Capabilities and Limits of Software and Hardware Reverse Engineering| Software reverse engineering is the process of decompiling binary code into source code. Hardware reverse engineering is the analysis of physical computer components to determine their functionality. Attackers can reverse engineer software and hardware to examine and/or bypass security mechanisms.
 |=====================================
 
 == Global Development
