@@ -19,6 +19,7 @@ Primary authors will be listed. These authors may choose to accept changes propo
 Each eBook should contain the following major sections:
 
 . License. The license must be Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+. Changelog. Major changes should be noted. These notes should help instructors integrate new editions in courses. Minor changes like typos or small clarifications do not need to be noted. Adding or removing sections should be noted.
 . Executive Summary. Describe the topic in one or two paragraphs.
 . Learning Outcomes. Copy the outcomes as listed in the CAE-CD knowledge unit.
 . Topics at a Glance. Include the a table of the knowledge unit topics and a brief (1-3 sentence) definition of the topic. The topic should use the numbered outline as written in the knowledge unit description.

@@ -21,6 +21,16 @@ Dr. Jim Marquardson in an Assistant Professor of Information Assurance and Cyber
 
 * 2019-02-01: v1. First version released.
 
+== Executive Summary
+
+Information systems are increasingly being developed by skilled people across the globe. Some organizations hire employees who work in foreign countries to develop code--a process known as offshoring. Offshoring is typically pursued to reduce development costs. Organizations can also choose to outsource development to 3rd parties. Outsourcing can help organizations develop systems when they lack the resources to do the development themselves. Outsourcing can be to a 3rd party in the same country as the organization or a foreign country.
+
+Organizations must carefully consider security and legal implications of global development. Technology components, like physical products, are subject to export control laws. Some software cannot be legally transmitted to certain foreign countries based. In the United States, software can be classified using Export Control Classification Numbers (ECCN). ECCNs can be used to determine where software can legally be transferred. When sourcing software and hardware globally, organizations must also take steps to ensure that malicious code or unapproved hardware modules are not introduced.
+
+As software and hardware are distributed globally, attackers can try to analyze security mechanisms by using software and hardware reverse engineering. In software reverse engineering, researchers take compiled binaries and determine the code routines. Some applications can be decompiled in which source code is generated for a compiled binary application. Hardware circuits can also be analyzed to determine their functions. Weaknesses in software and hardware can be used for future exploits.
+
+Organization must have controls in pace to ensure that development practices reach the intended functionality goals while maintaining security of the systems developed.
+
 == Learning Outcomes
 
 Students should be able to footnote:[https://www.iad.gov/nietp/CAERequirements.cfm]:
